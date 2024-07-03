@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 //Vineesh - 212221230122
 export default defineConfig({
   plugins: [react()],
-  base: 'Toggle-Visibility-Feature-D2-A1'
+  base: 'Toggle-Visibility'
 })
